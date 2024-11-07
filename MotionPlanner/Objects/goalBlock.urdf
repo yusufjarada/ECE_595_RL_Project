@@ -10,15 +10,15 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <box size="5 5 5" />
+        <box size="2 2 2" />
       </geometry>
       <material name="transparent_black">
-        <color rgba="0.0 0.1 0.1 0.5" />
+        <color rgba="0.0 1 0 1" />
       </material>
     </visual>
     <collision>
       <geometry>
-        <box size="5 5 5" />
+        <box size="2 2 2" />
       </geometry>
     </collision>
    </link>
